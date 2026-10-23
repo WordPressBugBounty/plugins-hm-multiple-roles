@@ -2,12 +2,12 @@
 Contributors: hmplugin, mhmrajib
 Donate link: https://www.paypal.me/mhmrajib
 Tags: user roles, role, roles, user, users
-Requires at least: 5.4
-Tested up to: 6.7.1
+Requires at least: 5.8
+Tested up to: 7.1.3
 Stable tag: 2.1.1
-Requires PHP: 7.2
+Requires PHP: 7.4
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 It hides the default role dropdown list and displays a list of role checkboxes to select multiple roles for a user.
 
